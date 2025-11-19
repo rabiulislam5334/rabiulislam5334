@@ -1,4 +1,4 @@
-<!-- <img alt="html5" src="(https://ibb.co.com/Kc02c46C)" /> -->
+<!-- <img alt="html5" src="https://i.ibb.co.com/V0jg0nVX/Navy-Blue-Geometric-Technology-Linked-In-Banner.jpg" /> -->
 
 ## About Me 
 
