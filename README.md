@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img alt="banner" src="https://i.ibb.co/WCYvCtg/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" />
+<img alt="banner" src="https://i.ibb.co.com/WCYvCtg/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" />
 
 # 👋 Hi, I'm **Md. Rabiul Islam**
 
