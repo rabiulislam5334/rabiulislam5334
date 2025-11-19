@@ -1,5 +1,5 @@
 <!-- <img alt="html5" src="https://i.ibb.co.com/V0jg0nVX/Navy-Blue-Geometric-Technology-Linked-In-Banner.jpg" />
-<img alt="banner" src="https://i.ibb.co/V0jg0nVX/Navy-Blue-Geometric-Technology-Linked-In-Banner.jpg" />
+<img alt="banner" src="https://i.ibb.co.com/WCYvCtg/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" />
 -->
 
 ## About Me 
