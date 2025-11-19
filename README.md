@@ -28,7 +28,7 @@ Hi there! I'm <b>Md.Rabiul Islam</b>. I'm a passionate Software Developer with a
 
 
 ## Contact
-Feel free to reach out to me or connect with me on  [Linkedin](https://www.linkedin.com/in/abufaysal002/)
+Feel free to reach out to me or connect with me on  [Linkedin]((https://www.linkedin.com/in/developerrabiul/))
 
 You can also find me on:
 
