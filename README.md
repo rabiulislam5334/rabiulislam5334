@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/WCYvCtg/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" width="100%" alt="Md Rabiul Islam Banner"/>
+  <img src="https://i.ibb.co.com/jvZPD0mb/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" width="100%" alt="Md Rabiul Islam Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Rabiul Islam</h1>
