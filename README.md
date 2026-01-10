@@ -27,14 +27,22 @@
 ---
 
 ### 🛠️ Tech Stack
-
 | Category | Skills |
 | :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
-
+| **Language** | ![JavaScript](https://img.shields.io/badge/-JavaScript%20(ES6+)-F7DF1E?logo=javascript&logoColor=black) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white) ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-4479A1?logo=oracle&logoColor=white) |
+| **CMS** | ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white) ![Elementor](https://img.shields.io/badge/-Elementor-92003B?logo=elementor&logoColor=white) ![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?logo=woocommerce&logoColor=white) ![Crocoblock](https://img.shields.io/badge/-Crocoblock-1a1a2e?logoColor=white) |
+| **Tools & Deployment** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white) |
+| **Others** | ![DaisyUI](https://img.shields.io/badge/-DaisyUI-5A0EF8?logoColor=white) ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white) ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?logoColor=white) ![Recharts](https://img.shields.io/badge/-Recharts-00C7B7?logoColor=white) ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?logo=framer&logoColor=white) ![AOS](https://img.shields.io/badge/-AOS-000000?logoColor=white) ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logoColor=white) |
+---
+### 🏆 Certifications
+- 🎓 **CS50x: Introduction to Computer Science** — Harvard University (2025–Present)
+- 📜 **Oracle Certified Professional: SQL, PL/SQL, DBA, Forms, Reports, APEX** — IDB-BISEW (2018–2019)
+- 🛠️ **Complete Web Development Course (MERN Stack)** — Programming Hero (Full-Stack Specialization)
+  - Covered: HTML, CSS, JavaScript (ES6+), React.js, Node.js, Express.js, MongoDB, Firebase, Authentication, Deployment, Next.js and multiple real-world projects.
+  - Focus: Building production-ready full-stack applications with job placement support.
 ---
 
 ### 💡 Featured Projects
