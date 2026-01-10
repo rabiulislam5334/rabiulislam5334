@@ -19,8 +19,9 @@
 ### 🚀 About Me
 - 💼 **Full-Stack MERN Developer** specializing in scalable web solutions.
 - 🏆 **Oracle Certified Professional (OCP)** with expertise in Enterprise Data Management.
+- 🌐 **WordPress Expert** — skilled in custom theme customization, plugin integration, and building high-performance websites.
 - 🧠 Currently solving complex problems in **Next.js** and mastering **System Design**.
-- 🏛️ Experienced in **Government Automation Projects** (Oracle APEX).
+- 🏛️ Experienced in **Government Automation Projects** (Software Support).
 - 🎓 **MBA from University of Dhaka** — combining business logic with technical excellence.
 
 ---
