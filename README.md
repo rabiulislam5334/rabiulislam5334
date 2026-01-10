@@ -53,9 +53,12 @@
 ### 📊 My GitHub Dynamic Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=rabiulislam5334&show_icons=true&theme=radical&count_private=true&hide_border=true&v=2" />
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rabiulislam5334&theme=radical&hide_border=true&v=2" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=rabiulislam5334&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabiulislam5334&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=rabiulislam5334&layout=compact&theme=radical&hide_border=true" width="70%" />
 </p>
 
 #### 📈 Weekly Activity Wave
