@@ -63,6 +63,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabiulislam5334&theme=radical&hide_border=true" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=rabiulislam5334&layout=compact&theme=radical&hide_border=true" width="70%" />
+</p>
+
 ---
 
 ### 📬 Let's Connect
