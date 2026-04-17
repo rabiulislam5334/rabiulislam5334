@@ -45,7 +45,7 @@
 - Production-grade online judge with Docker-based secure code execution  
 - Real-time leaderboard, AI interview simulation & scalable backend  
 - **Achievement:** Top Team in Programming Hero Endgame-12 (44+ teams)  
-- **Live:** [codearena-team.up.railway.app](https://codearena-team.up.railway.app)  
+- **Live:** [codearena-team.up.railway.app](https://codearena-9ymb.onrender.com/)  
 - **GitHub:** [github.com/rabiulislam5334/CodeArena-TeamProject](https://github.com/rabiulislam5334/CodeArena-TeamProject)
 
 **Care.IO – Caregiving Services Marketplace**  
