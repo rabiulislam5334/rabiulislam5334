@@ -58,7 +58,7 @@
 
 **LocalChefBazaar – Home-Cooked Meal Marketplace**  
 - Full-stack MERN app with Stripe payment & real-time features  
-- **Live:** [https://codearena-9ymb.onrender.com/](https://codearena-9ymb.onrender.com/)  
+- **Live:** [https://localchefbazaar.netlify.app/](https://localchefbazaar.netlify.app/)  
 - **GitHub:** [https://github.com/rabiulislam5334/localChef-Bazaar-client](https://github.com/rabiulislam5334/localChef-Bazaar-client)
 
 ---
