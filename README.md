@@ -43,6 +43,12 @@
 | **Others** | ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white) |
 ----
 ### 💡 Featured Projects
+**🚀 HirePilot – AI-Powered Career OS & SaaS Platform**
+- Production-grade SaaS with AI resume optimization, mock interviews, real-time leaderboard & job tracker
+- Groq AI (LLaMA 3.3-70b) for resume ATS scoring, interview generation & career coaching
+- Real-time features via Socket.io + BullMQ; deployed on Render with Docker
+- **Live:** [hirepilot-a0rh.onrender.com](https://hirepilot-a0rh.onrender.com)
+- **GitHub:** [github.com/rabiulislam5334/HirePilot](https://github.com/rabiulislam5334/HirePilot)
 
 **🔥 CodeArena – AI-Powered Competitive Programming Platform** *(Team Lead)*  
 - Production-grade online judge with Docker-based secure code execution  
